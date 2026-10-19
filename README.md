@@ -1,0 +1,1 @@
+# myndaku-delete-account
